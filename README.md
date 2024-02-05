@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muya! <br/><a href="https://github.com/muyamw">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/muya-mwangi-98a5a0286/">Aspiring SOC Analyst</a>
+<h1>Hi, I'm Muya! <br/><a href="https://github.com/muyamw">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/muyam">Aspiring SOC Analyst</a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -26,4 +26,6 @@
 
 [<img align="left" alt="Muya Mwangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/muya-mwangi-98a5a0286/
+[linkedin]: https://www.linkedin.com/in/muyam
+
+
